@@ -10,7 +10,7 @@
 M = read.csv("EE627A_HW1_Data.csv", header = TRUE)
 
 # print out the first row to check headers
-head(M,1)bhead
+head(M,1)
 
 #========================================================
 # compute the correlation matrix
